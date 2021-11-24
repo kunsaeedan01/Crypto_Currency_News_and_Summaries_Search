@@ -1,0 +1,35 @@
+body {
+ background-color: #D3E4CD;
+}
+
+
+.form-control-borderless {
+    border: none;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+h1{
+    text-align: center;
+    margin-top: 75px;
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    color: green;
+}
+td{
+    width:500px;
+    margin-right: 200px;
+    margin-left: 50px;
+}
+table {
+    align: center;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+a {
+    color: white;
+}
