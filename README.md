@@ -20,3 +20,6 @@ python3 test/main.py
 Enter the name of cryptocurrency, check for spelling and hit enter and wait for processing.
 
 ## Example
+<p>
+  <img src="img/search.png">
+</p>
